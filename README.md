@@ -44,3 +44,9 @@ _table_epistasis.xlsx_
 
 
 
+
+This project is licensed under the terms of GPLv3.
+
+
+
+
