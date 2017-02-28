@@ -3,7 +3,7 @@ Supplementary material for the CPT tutorial paper:
 
 Title: _Logic modeling in quantitative systems pharmacology_
 
-Authors: Pauline Traynard<sup>*1</sup>, Luis Tobalina<sup>*2</sup>, Federica Eduati<sup>*3</sup>, Laurence Calzone<sup>1</sup>, Julio Saez-Rodriguez<sup>2,3</sup>
+Authors: Pauline Traynard<sup>\*1</sup>, Luis Tobalina<sup>\*2</sup>, Federica Eduati<sup>*3</sup>, Laurence Calzone<sup>1</sup>, Julio Saez-Rodriguez<sup>2,3</sup>
 
 <sup>*</sup> Co-first authors
 
