@@ -23,7 +23,7 @@ _network_extension.docx_ Description of step-by-step model extension using pypat
 _PriorKnowledgeNetwork.sif_ Final Prior Knowledge Network (PKN)
 
 #####Model training 
-_perturbationData_LNCaP_MIDAS.csv_ Perturbation data from (Lescarbeau et al., 2014) in normalised and in MIDAS format
+_perturbationData_LNCaP_MIDAS.csv_ Perturbation data from (Lescarbeau et al., 2014) normalised and in MIDAS format
 
 _CellNOptR_optimisation.R_ R code for optimisation with CellNOptR logic ODE
 
@@ -38,8 +38,9 @@ _logicODEparameters_nodes.txt_
 
 
 #####MaBoSS simulations and genetic interactions:
+_table_survivalprobas.xlsx_
 _table_epistasis.xlsx_
 
-_table_survivalprobas.xlsx_
+
 
 
